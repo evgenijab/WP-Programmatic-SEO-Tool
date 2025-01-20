@@ -1,0 +1,14 @@
+#pca-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#pca-table th, #pca-table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+#pca-table th {
+    background-color: #f4f4f4;
+}
